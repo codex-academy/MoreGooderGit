@@ -6,6 +6,7 @@ A quick round up of best practices and tools for being a (more) good(er) git use
 
 * what makes a good commit, a good msg
 * great for teams
+* gitignore
 * branching
 * merge conflicts
 
