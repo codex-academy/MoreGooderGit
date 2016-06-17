@@ -1,0 +1,8 @@
+# Site settings
+title: More Gooder Git
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jemoji
